@@ -1401,11 +1401,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/WD/proj/r-pi/pi.sample/pi.sample.csproj",
+      "projectUniqueName": "/Volumes/WD/proj/r-pi/pi/pi.sample/pi.sample.csproj",
       "projectName": "pi.sample",
-      "projectPath": "/Volumes/WD/proj/r-pi/pi.sample/pi.sample.csproj",
+      "projectPath": "/Volumes/WD/proj/r-pi/pi/pi.sample/pi.sample.csproj",
       "packagesPath": "/Users/nicksuslov/.nuget/packages/",
-      "outputPath": "/Volumes/WD/proj/r-pi/pi.sample/obj/",
+      "outputPath": "/Volumes/WD/proj/r-pi/pi/pi.sample/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nicksuslov/.nuget/NuGet/NuGet.Config"

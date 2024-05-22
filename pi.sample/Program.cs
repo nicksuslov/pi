@@ -17,7 +17,7 @@ while (true)
 { 
     Console.WriteLine($"loop {loopCount++}");
     controller.Write(ledPin, PinValue.High);
-    Thread.Sleep(200);
+    Thread.Sleep(100);
     controller.Write(ledPin, PinValue.Low);
-    Thread.Sleep(1000);
+    Thread.Sleep(100);
 }

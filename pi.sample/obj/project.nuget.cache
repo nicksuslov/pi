@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C/cJ2gZdPTL/FauQdBi1wABzriAk2JN5EH4/Y2eBT3yrQ4GVstgeTjbd5bRtXnTHe4/WA1TrMBqIqtp73Owt0w==",
+  "dgSpecHash": "EA/DcNXoaAR2F79/7wtIyvr+TYFSWmv2rIoEAByXSvzo460JoJGWOdFBh+aAqarJpw6Vy+qrIH8NXkxhPslahw==",
   "success": true,
-  "projectFilePath": "/Volumes/WD/proj/r-pi/pi.sample/pi.sample.csproj",
+  "projectFilePath": "/Volumes/WD/proj/r-pi/pi/pi.sample/pi.sample.csproj",
   "expectedPackageFiles": [
     "/Users/nicksuslov/.nuget/packages/iot.device.bindings/3.1.0/iot.device.bindings.3.1.0.nupkg.sha512",
     "/Users/nicksuslov/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
